@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I'm Ayna 👋
+## Just a girl who codes, creates, and keeps learning ✨
+ ---
+ 
+- 🎓 I'm a student majoring in Software Development and Game Programming (PPLG)  
+- 💻 I learn about web development and enjoy building digital experiences  and actively expanding my knowledge in Data Science, particularly in Machine Learning
+- 🚀 I enjoy exploring new ideas and transforming them into learning projects, as I believe hands-on experience is the best way to grow
 
-<!--
-**aynarifdah/aynarifdah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Design :
+[![My Skills](https://skillicons.dev/icons?i=blender,figma)](https://skillicons.dev)
+
+#### Tools :
+[![My Skills](https://skillicons.dev/icons?i=postman,mysql)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white" />
+
+
+#### Tech Stack :
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,php)](https://skillicons.dev)
+
+---
+
+### Connect With Me
+
+![https://www.instagram.com/aynarifdah/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/aynarifdah](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://x.com/aynadwirifdah](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+
+<br>
+
+![Ayna's GitHub stats](https://github-readme-stats.vercel.app/api?username=aynarifdah&show_icons=true&theme=tokyonight)
+
