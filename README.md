@@ -1,5 +1,6 @@
-## Hi, I'm Ayna 👋
+# Hi, I'm Ayna 👋
 ## Just a girl who codes, creates, and keeps learning ✨
+
  ---
  
 - 🎓 I'm a student majoring in Software Development and Game Programming (PPLG)  
