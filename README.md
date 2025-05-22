@@ -19,7 +19,7 @@
 
 
 #### Tech Stack :
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,php,html,css,java,js)](https://skillicons.dev)
 
 ---
 
