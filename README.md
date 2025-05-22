@@ -1,4 +1,4 @@
-# Hi, I'm Ayna 👋
+# Hello, I'm Ayna 👋
 ## Just a girl who codes, creates, and keeps learning ✨
 
  ---
