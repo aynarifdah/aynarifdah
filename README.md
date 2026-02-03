@@ -24,19 +24,19 @@
 ---
 
 ## 🛠️ Tools & Environment
-[![My Skills](https://skillicons.dev/icons?i=postman,mysql,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,mysql,linux,ubuntu)](https://skillicons.dev)
 <br>
 <img src="https://img.shields.io/badge/DBeaver-2C2F33?style=for-the-badge&logo=data&logoColor=white" />
 <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white" />
 
----
+---     
 
 ## 💻 Tech Stack
 ### Programming & Markup Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,java,ts,dart)](https://skillicons.dev)
 
 ### Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=codeigniter,nextjs,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ci,nextjs,flutter)](https://skillicons.dev)
 
 ---
 
