@@ -36,7 +36,12 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,java,ts,dart)](https://skillicons.dev)
 
 ### Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=ci,nextjs,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind)](https://skillicons.dev)
+<br>
+<img src="https://img.shields.io/badge/CodeIgniter-EE4623?style=for-the-badge&logo=codeigniter&logoColor=white" />
+
+### Tools, Package Manager & Version Control
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,npm,pnpm)](https://skillicons.dev)
 
 ---
 
@@ -62,7 +67,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Ayna's GitHub stats](https://github-readme-stats.vercel.app/api?username=aynarifdah&show_icons=true&theme=tokyonight)
+![Ayna's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aynarifdah&show_icons=true&theme=tokyonight)
 
 ---
 
