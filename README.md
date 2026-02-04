@@ -66,9 +66,4 @@
 
 ---
 
-## 📊 GitHub Stats
-![Ayna's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aynarifdah&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
 > _“Learning by building real projects.”_
