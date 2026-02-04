@@ -1,7 +1,6 @@
-<div align="center">
 # Holla, I'm Ayna 👋  
 ### Just a girl who codes, creates, and keeps learning ✨
-</div>
+
 ---
 
 🎓 I'm a **Software Development and Game Programming (PPLG)** student  
@@ -19,7 +18,6 @@
 
 ---
 
-<div align="center">
 ## 🎨 Design Tools
 [![My Skills](https://skillicons.dev/icons?i=figma,blender)](https://skillicons.dev)
 
@@ -45,7 +43,6 @@
 ### Tools, Package Manager & Version Control
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,npm,pnpm)](https://skillicons.dev)
 
-</div>
 ---
 
 ## 🌱 Interests
@@ -56,7 +53,6 @@
 
 ---
 
-<div align="center">
 ## 🔗 Connect With Me
 <a href="https://www.instagram.com/aynarifdah/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -67,7 +63,7 @@
 <a href="https://x.com/aynadwirifdah">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-</div>
+
 ---
 
 > _“Learning by building real projects.”_
